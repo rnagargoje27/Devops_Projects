@@ -10,7 +10,7 @@
 3. [Configured the Jenkins Master and Agent nodes using Ansible. Configured Jenkins Agent as the Maven Build server.]
 4. [Added Jenkins Agent node's credentials in Jenkins Master to establish a connection between Jenkins Master and Agent nodes.]
 
-5. [Added GitHub credentials to the Jenkins Master and created Multibranch Pipeline job.](https://github.com/NotHarshhaa/DevOps-
+5. [Added GitHub credentials to the Jenkins Master and created Multibranch Pipeline job.]
 
 6. [Configured the Multibranch Pipeline job with GitHub Webhook Trigger with the help of Multibranch Scan Webhook Trigger Plugin.]
 

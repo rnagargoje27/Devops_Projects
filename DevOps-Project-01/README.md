@@ -102,6 +102,8 @@ Deploy AWS Infrastructure resources as shown in the above architecture.
 1. Verify you as an administrator able to login to EC2 instances from session manager & from Bastion Host.
 2. Verify if you as an end user able to access application from public internet browser.
 
-# Hit the Star! ⭐
-***If you are planning to use this repo for learning, please hit the star. Thanks!***
+#Thank You!!
+#### Author by [Rushikesh Nagargoje](https://github.com/rnagargoje27/Devops_Projects)
+
+### Ensure to follow me on GitHub. Please star/share this repository!
 

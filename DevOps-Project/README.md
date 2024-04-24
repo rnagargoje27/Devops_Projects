@@ -37,7 +37,8 @@
     * Note: Changed the default service type of Prometheus and Grafana services from ClusterIP to LoadBalancer to access them from the browser.
 ---
 
-# Hit the Star! ⭐
+# Thank You!!
+#### Author by [Rushikesh Nagargoje](https://github.com/rnagargoje27/Devops_Projects)
 
-#### Author by Rushikesh Nagargoje
+### Ensure to follow me on GitHub. Please star/share this repository!
     

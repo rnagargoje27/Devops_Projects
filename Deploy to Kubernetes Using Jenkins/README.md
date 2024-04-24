@@ -262,7 +262,7 @@ Go to Jenkins Dashboard-
 
 **Create pipeline script(Jenkinsfile) for build and test Artifacts and Create CI Job on Jenkins**
 
-Here is [GitHub repository](https://github.com/MSFaizi/register-app), you can fork it to your account
+Here is [https://github.com/rnagargoje27/Devops_Projects], you can fork it to your account
 
 Go to Jenkins Dashboard -
 
@@ -829,8 +829,7 @@ Go to Jenkins Dashboard again
 ***Note***: *Now you can test this pipeline as many times as you want by changing to the code and pushing them to GitHub*
 
 # Thank you
-Thank you for taking the time to work on this tutorial/labs. Let me know what you thought!
 
-#### Author by [Harshhaa Reddy](https://github.com/NotHarshhaa)
+#### Author by [Rushikesh Nagargoje](https://github.com/rnagargoje27/Devops_Projects)
 
 ### Ensure to follow me on GitHub. Please star/share this repository!

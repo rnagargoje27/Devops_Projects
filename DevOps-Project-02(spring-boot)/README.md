@@ -3,14 +3,12 @@
 ![](https://user-images.githubusercontent.com/43399466/228301952-abc02ca2-9942-4a67-8293-f76647b6f9d8.png)
 
 
-## 🔗 BLOG URL HERE: https://harshhaa.hashnode.dev/streamlining-cicd-workflow-with-github-jenkins-sonarqube-docker-argocd-and-gitops
-
 
 Here are the step-by-step details to set up an **end-to-end Jenkins pipeline for a Java application using SonarQube, Argo CD, Helm, and Kubernetes:**
 
 **Prerequisites:**
 -  Java application code hosted on a Git repository
--   Jenkins server
+-  Jenkins server
 -  Kubernetes cluster
 -  Helm package manager
 -  Argo CD
@@ -64,8 +62,5 @@ Here are the step-by-step details to set up an **end-to-end Jenkins pipeline for
 This end-to-end Jenkins pipeline will automate the entire CI/CD process for a Java application, from code checkout to production deployment, using popular tools like SonarQube, Argo CD, Helm, and Kubernetes.
 
 # Thank you
-Thank you for taking the time to work on this tutorial/labs. Let me know what you thought!
 
-#### Author by [Harshhaa Reddy](https://github.com/NotHarshhaa)
-
-### Ensure to follow me on GitHub. Please star/share this repository!
+# Author by Rushikesh Nagargoje

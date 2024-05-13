@@ -1,0 +1,12 @@
+version: 0.1
+log:
+  fields:
+    service: registry
+storage:
+  filesystem:
+    rootdirectory: /var/lib/registry
+http:
+  addr: :443
+  tls:
+    certificate: /etc/docker/registry/domain.crt
+    key: /etc/docker/registry/domain.key

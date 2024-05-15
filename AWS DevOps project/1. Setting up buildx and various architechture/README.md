@@ -3,7 +3,6 @@ Here's a basic example of how you can set up a Jenkins pipeline script to accomp
 
 pipeline {
     agent any
-    
     stages {
         stage('Setup Buildx') {
             steps {
@@ -26,8 +25,7 @@ pipeline {
                 // Set buildx as the default builder
                 sh 'docker buildx install'
             }
-        }
-        
+        }       
         // Add more stages for your actual build tasks...
     }
 }

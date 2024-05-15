@@ -1,9 +1,12 @@
 ﻿To transfer your Docker build tasks, including setting up buildx and enabling various architectures, to the Jenkins container, you can create Jenkins jobs or pipeline scripts that execute these commands within the Jenkins environment.
 Here's a basic example of how you can set up a Jenkins pipeline script to accomplish this:
 
+
 pipeline {
-    agent any
-    stages {
+
+        agent any
+        
+        stages {
         stage('Setup Buildx') {
             steps {
                 sh 'docker context create --docker host=unix:///var/run/docker.sock main-context'
